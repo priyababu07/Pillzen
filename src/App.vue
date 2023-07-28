@@ -1,5 +1,5 @@
 <script setup>
-import CardContainer from "./components/cardContainer.vue"
+import CardContainer from "./components/CardContainer.vue"
 </script>
 
 <template>
