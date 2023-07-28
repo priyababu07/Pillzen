@@ -1,9 +1,9 @@
 <script setup>
-import cardContainer from "./components/cardContainer.vue"
+import CardContainer from "./components/cardContainer.vue"
 </script>
 
 <template>
-<cardContainer/>
+<CardContainer/>
 </template>
 
 <style scoped>
